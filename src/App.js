@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div>  Hello World! from Kamran Ahmed </div>
+    <div>  Hello World! from Kamran Ahmed and Noman Khan </div>
   );
 }
 
